@@ -1,0 +1,15 @@
+install postresql on windows
+
+https://www.youtube.com/watch?v=-f9lke78g2U
+
+postgresql-10.1.1-win64-bigsql.exe start as adminstrator
+
+port 5432
+
+host : localhost
+username : postgres
+password Aba14mah
+
+
+admin : abakar
+password : Aba14mah?

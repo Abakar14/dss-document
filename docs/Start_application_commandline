@@ -1,0 +1,13 @@
+Start for maven
+mvn spring-boot:run -pl discoveryServer -X
+
+or 
+cd discoveryServer
+mvn spring-boot:run
+
+gradle:-
+
+cd projectname
+./gradlew :bootRun &
+
+
